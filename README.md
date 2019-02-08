@@ -1,6 +1,10 @@
 # My Arduino dark theme
 
+Ubuntu:
 Go to Your_Arduino_folder/lib/ and rename theme folder to theme_old.
+
+Windows: 
+C:\Program Files (x86)\Arduino\lib
 
 Copy-past new theme folder.
 
