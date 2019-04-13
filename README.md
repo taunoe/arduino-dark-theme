@@ -8,7 +8,7 @@ C:\Program Files (x86)\Arduino\lib
 
 Copy-past new theme folder.
 
-Example on Ubuntu: /home/you/downloads/arduino-1.8.7/lib/theme
+Example on Ubuntu: /home/you/downloads/arduino-1.8.9/lib/theme
 
 ![Arduino dark theme on Ubuntu 18.04](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/arduino%20dark%20theme%20on%20ubuntu%2018.04.png)
 
