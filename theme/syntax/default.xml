@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE RSyntaxTheme SYSTEM "theme.dtd">
 
-<!--
-	Dark theme based off of Notepad++'s Obsidian theme.
-	See theme.dtd and org.fife.ui.rsyntaxtextarea.Theme for more information.
--->
+<!-- Dark theme -->
 <RSyntaxTheme version="1.0">
 
-   <!-- Omitting baseFont will use a system-appropriate monospaced. -->
-   <!--<baseFont family="..." size="13"/>-->
-
    <!--  General editor colors. -->
-   <background color="293134"/>
+   <background color="35373b"/>
    <caret color="c1cbc2"/>
    <selection useFG="false" bg="404E51" roundedEdges="false"/>
    <currentLineHighlight color="2F393C" fade="false"/>
    <marginLine fg="394448"/>
-   <markAllHighlight color="6b8189"/> <!-- TODO: Fix me -->
+   <markAllHighlight color="5d6370"/> <!-- TODO: Fix me -->
    <markOccurrencesHighlight color="5b7179" border="false"/>
-   <matchedBracket fg="ffffff" bg="3399ff" highlightBoth="true" animate="true"/>
+   <matchedBracket fg="6A8088" bg="5d6370" highlightBoth="true" animate="false"/>
    <hyperlinks fg="a082bd"/>
    <secondaryLanguages>
       <language index="1" bg="333344"/>
@@ -28,8 +22,8 @@
 
    <!-- Gutter styling. -->
    <gutterBorder color="81969A"/>
-   <lineNumbers fg="cccccc"/>
-   <foldIndicator fg="cccccc" iconBg="aaaaaa"/>
+   <lineNumbers fg="5d6370"/>
+   <foldIndicator fg="6A8088" iconBg="2f383c"/>
    <iconRowHeader activeLineRange="3399ff"/>
 
    <!-- Syntax tokens. -->
@@ -37,7 +31,7 @@
       <style token="IDENTIFIER" fg="E0E2E4"/>
       <style token="RESERVED_WORD" fg="93C763" bold="true"/>
       <style token="RESERVED_WORD_2" fg="93C763" bold="true"/>
-      <style token="ANNOTATION" fg="aaaaaa"/>
+      <style token="ANNOTATION" fg="E8E2B7"/>
       <style token="COMMENT_DOCUMENTATION" fg="6C788C"/>
       <style token="COMMENT_EOL" fg="66747B"/>
       <style token="COMMENT_MULTILINE" fg="66747B"/>
@@ -62,10 +56,10 @@
       <style token="MARKUP_CDATA" fg="d5e6f0"/>
       <style token="MARKUP_CDATA_DELIMITER" fg="ae9fbf"/>
       <style token="MARKUP_ENTITY_REFERENCE" fg="678CB1"/>
-      <style token="OPERATOR" fg="aaaaaa"/>
+      <style token="OPERATOR" fg="E8E2B7"/>
       <style token="PREPROCESSOR" fg="A082BD"/>
       <style token="REGEX" fg="d39745"/>
-      <style token="SEPARATOR" fg="aaaaaa"/>
+      <style token="SEPARATOR" fg="E8E2B7"/>
       <style token="VARIABLE" fg="ae9fbf" bold="true"/>
       <style token="WHITESPACE" fg="E0E2E4"/>
 
