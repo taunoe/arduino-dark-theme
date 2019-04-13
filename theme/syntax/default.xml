@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE RSyntaxTheme SYSTEM "theme.dtd">
 
-<!-- Dark theme -->
+<!--
+  Arduino Dark theme
+  Tauno Erik
+  https://taunoerik.art
+  https://github.com/taunoe/arduino-dark-theme
+  13.04.2019
+-->
 <RSyntaxTheme version="1.0">
 
    <!--  General editor colors. -->
