@@ -1,5 +1,9 @@
 # My Arduino dark theme
 
+Tested on Ubuntu 18.04 and Windows 10.
+
+## Install
+
 Ubuntu:
 Go to Your_Arduino_folder/lib/ and rename theme folder to theme_old.
 
