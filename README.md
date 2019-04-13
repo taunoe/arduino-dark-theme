@@ -6,7 +6,7 @@ Tested on Ubuntu 18.04, 18.10 and Windows 10. I do not guarantee that it will wo
 
 ## Install
 
-Download from GitHub: https://github.com/taunoe/arduino-dark-theme
+Download from GitHub: https://github.com/taunoe/arduino-dark-theme/archive/master.zip
 
 Find your Arduino theme folder.
 
