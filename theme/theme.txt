@@ -14,11 +14,11 @@
 #COMMENTS /**/ COLOR	#5d6370	- DARK GREY
 
 # GUI - STATUS
-status.notice.fgcolor = #002325
+status.notice.fgcolor = #5d6370
 status.notice.bgcolor = #35373b
 status.error.fgcolor = #FFFFFF
 status.error.bgcolor = #E34C00
-status.edit.fgcolor = #000000
+status.edit.fgcolor = #5d6370
 status.edit.bgcolor = #ffd766
 status.font = SansSerif,plain,12
 
