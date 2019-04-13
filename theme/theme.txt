@@ -42,16 +42,16 @@ buttons.status.font = SansSerif,plain,12
 buttons.status.color = #95A5A6
 
 # GUI - PLOTTING
-plotting.bgcolor = #35373b
+plotting.bgcolor = #2c3037
 plotting.color = #95A5A6
-plotting.gridcolor = #f0f0f0
-plotting.boundscolor = #000000
-plotting.graphcolor.size = 8
-plotting.graphcolor.00 = #0000FF
-plotting.graphcolor.01 = #FF0000
+plotting.gridcolor = #5d6370
+plotting.boundscolor = #5d6370
+plotting.graphcolor.size = 9
+plotting.graphcolor.00 = #fc9667
+plotting.graphcolor.01 = #78dbe7
 plotting.graphcolor.02 = #a8db75
 plotting.graphcolor.03 = #ffd766
-plotting.graphcolor.04 = #CC00CC
+plotting.graphcolor.04 = #a99cf2
 plotting.graphcolor.05 = #666666
 plotting.graphcolor.06 = #78dbe7
 plotting.graphcolor.07 = #000000
