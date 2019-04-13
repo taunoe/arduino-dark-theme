@@ -10,7 +10,7 @@ Go to Your_Arduino_folder/lib/ and rename theme folder to theme_old.
 Windows: 
 C:\Program Files (x86)\Arduino\lib
 
-Copy-past new theme folder.
+Copy-past the new theme folder.
 
 Example on Ubuntu: /home/you/downloads/arduino-1.8.9/lib/theme
 
