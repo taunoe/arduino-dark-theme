@@ -1,18 +1,24 @@
 # My Arduino dark theme
 
-Tested on Ubuntu 18.04 and Windows 10.
+I changed UI colors, icons and syntax color.
+
+Tested on Ubuntu 18.04, 18.10 and Windows 10. I do not guarantee that it will work on older OSs.
 
 ## Install
 
-Ubuntu:
-Go to Your_Arduino_folder/lib/ and rename theme folder to theme_old.
+Download from GitHub: https://github.com/taunoe/arduino-dark-theme
 
-Windows: 
-C:\Program Files (x86)\Arduino\lib
+Find your Arduino theme folder.
 
-Copy-past the new theme folder.
+On Ubuntu its is usualy on Your_Arduino_folder/lib/theme
 
-Example on Ubuntu: /home/you/downloads/arduino-1.8.9/lib/theme
+Like: /home/you/downloads/arduino-1.8.9/lib/theme
+
+On Windows: C:\Program Files (x86)\Arduino\lib\theme
+
+Rename theme folder to theme_old and copy-past the new theme folder.
+
+Restart Arduino IDE and have fun.
 
 ![Arduino dark theme on Ubuntu 18.04](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/arduino%20dark%20theme%20on%20ubuntu%2018.04.png)
 
