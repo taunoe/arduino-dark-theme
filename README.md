@@ -1,6 +1,6 @@
 # My Arduino dark theme
 
-I changed UI colors, icons and syntax color.
+I have changed UI colors, icons and syntax color.
 
 Tested on Ubuntu 18.04, 18.10 and Windows 10. I do not guarantee that it will work on older OSs.
 
