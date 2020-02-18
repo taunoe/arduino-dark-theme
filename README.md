@@ -1,7 +1,5 @@
 # Arduino dark theme
 
-I have changed UI colors, icons and syntax color.
-
 Tested on Ubuntu 19.10
 
 ## Install
@@ -29,6 +27,8 @@ Open Arduino IDE > File > Prefernces and select new theme:
 Restart Arduino IDE and have fun.
 
 ## Screenshots
+
+I have changed UI colors, icons and syntax color.
 
 Ubuntu 18.04
 
