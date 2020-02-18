@@ -18,7 +18,7 @@ In my case /home/tauno/Arduino
 
 Go to that location and make new foler **theme**
 
-In my case In my case /home/tauno/Arduino/theme
+In my case /home/tauno/Arduino/theme
 
 Copy downloaded **tauno-dark-theme.zip** to theme folder.
 
