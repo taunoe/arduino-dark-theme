@@ -26,6 +26,8 @@ Open Arduino IDE > File > Prefernces and select new theme:
 
 ![Arduino Sketchbook location](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/theme-selection.png)
 
+Restart Arduino IDE and have fun.
+
 ## Screenshots
 
 Ubuntu 18.04
