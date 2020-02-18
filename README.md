@@ -11,7 +11,7 @@ New Instructions that use Arduino built-in theme mechanism.
 Download https://github.com/taunoe/arduino-dark-theme/raw/master/tauno-dark-theme.zip
 
 Find your Arduino **Sketchbook location**: Arduino IDE > File > Prefernces
-theme folder.
+
 ![Arduino Sketchbook location](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/arduino_preference_red.png)
 
 In my case /home/tauno/Arduino
