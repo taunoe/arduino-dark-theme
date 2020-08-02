@@ -5,8 +5,6 @@
 
 ## Install
 
-New Instructions that use Arduino **built-in theme mechanism**.
-
 Download https://github.com/taunoe/arduino-dark-theme/raw/master/tauno-dark-theme.zip
 
 Find your Arduino **Sketchbook location**: Arduino IDE > File > Preferences
