@@ -1,6 +1,7 @@
 # Arduino dark theme
 
-Tested on Ubuntu 19.10
+* Uses Arduino **built-in theme mechanism**
+* SVG icons
 
 ## Install
 
