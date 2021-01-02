@@ -11,7 +11,7 @@ Find your Arduino **Sketchbook location**: Arduino IDE > File > Preferences
 
 ![Arduino Sketchbook location](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/arduino_preference_red.png)
 
-In my case /home/tauno/Arduino (on a Mac) or on windows this would be typically be as a sub-folder of  your "documents" folder at %HOMEDRIVE%%HOMEPATH%\Documents\Arduino
+In my case /home/tauno/Arduino (on a Mac) or on Windows this would be typically be as a sub-folder of  your "documents" folder at %HOMEDRIVE%%HOMEPATH%\Documents\Arduino
 
 Go to that location and make new folder **theme**
 
