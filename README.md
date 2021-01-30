@@ -40,3 +40,7 @@ Ubuntu 18.10
 Windows 10
 
 ![Arduino dark theme on Windows 10](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/arduino_dark_theme_on_windows_10.PNG)
+
+___
+
+Copyright 2021 Tauno Erik https://taunoerik.art
