@@ -10,9 +10,7 @@
 
 ### 1. Download
 
-Download tauno-dark-0.2 or/and tauno-dark-0.3.zip
-
-[Releases](https://github.com/taunoe/arduino-dark-theme/releases).
+Download [tauno-dark-0.2.zip](https://github.com/taunoe/arduino-dark-theme/releases/download/v0.3/tauno-dark-0.2.zip) or/and [tauno-dark-0.3.zip](https://github.com/taunoe/arduino-dark-theme/releases/download/v0.3/tauno-dark-0.3.zip).
 
 ### 2. Sketchbook location
 
