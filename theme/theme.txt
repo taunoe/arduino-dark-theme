@@ -1,7 +1,7 @@
 # Tauno Erik
 # https://taunoerik.art
 # https://github.com/taunoe/arduino-dark-theme
-# 13.04.2019
+# 07.04.2021
 
 #FUNCTIONS COLOR 			#fc9667 - ORANGE			KEYWORD1
 #FUNCTIONS COLOR			#fc9667 - ORANGE			KEYWORD2
