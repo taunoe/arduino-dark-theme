@@ -2,45 +2,47 @@
 
 * Uses Arduino **built-in theme mechanism**
 * SVG icons
+* Two colour versions: 0.2 and 0.3
+
+![tauno-dark-0.2 vs tauno-dark-0.3](screenshots/02vs03.png)
 
 ## Install
 
-Download https://github.com/taunoe/arduino-dark-theme/raw/master/tauno-dark-theme.zip
+### 1. Download
 
-Find your Arduino **Sketchbook location**: Arduino IDE > File > Preferences
+Download tauno-dark-0.2 or/and tauno-dark-0.3.zip
 
-![Arduino Sketchbook location](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/arduino_preference_red.png)
+[Releases](https://github.com/taunoe/arduino-dark-theme/releases).
 
-In my case /home/tauno/Arduino (on a Linux/Mac) or on Windows this would be typically be as a sub-folder of  your "documents" folder at %HOMEDRIVE%%HOMEPATH%\Documents\Arduino
+### 2. Sketchbook location
 
-Go to that location and make new folder **theme**
+Find your Arduino Sketchbook location: Arduino IDE > File > Preferences
 
-In my case /home/tauno/Arduino/theme or as an example on Windows C:\Users\Tauno\Documents\Arduino\Theme
+![Arduino Sketchbook location](screenshots/arduino_preference_red.png)
 
-Copy downloaded **tauno-dark-theme.zip** to theme folder.
+In my case /home/tauno/Arduino (on a Linux/Mac).
+
+On **Windows** this would be typically be as a sub-folder of  your "documents" folder at %HOMEDRIVE%%HOMEPATH%\Documents\Arduino
+
+### 3. Theme folder
+
+Go to that location and make new folder (if it does not exist already): **theme**
+
+In my case (on Linux) /home/tauno/Arduino/theme or as an example on Windows C:\Users\Tauno\Documents\Arduino\Theme
+
+### 4. Copy
+
+Copy downloaded **tauno-dark-0.2.zip** or/and **tauno-dark-0.3.zip** to theme folder.
+
+### 5. Select
 
 Open Arduino IDE > File > Preferences and select new theme:
 
-![Arduino Sketchbook location](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/theme-selection.png)
+![Arduino Sketchbook location](screenshots/theme-selection.png)
+
+### 6. Restart
 
 Restart Arduino IDE and have fun.
-
-## Screenshots
-
-I have changed UI colors, icons and syntax color.
-
-Ubuntu 18.04
-
-![Arduino dark theme on Ubuntu 18.04](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/arduino%20dark%20theme%20on%20ubuntu%2018.04.png)
-
-Ubuntu 18.10
-
-![Arduino dark theme on Ubuntu 18.10](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/arduino_dark_theme_on_ubuntu_18.10.png)
-
-Windows 10
-
-![Arduino dark theme on Windows 10](https://github.com/taunoe/arduino-dark-theme/blob/master/screenshots/arduino_dark_theme_on_windows_10.PNG)
-
 ___
 
 Copyright 2021 Tauno Erik https://taunoerik.art
