@@ -56,7 +56,6 @@ linestatus.bgcolor = #35373b
 editor.fgcolor = #F8F8F2
 editor.bgcolor = #2c3037
 
-
 # highlight for the current line
 editor.linehighlight.color = #95A5A6
 editor.linehighlight       = false
@@ -98,8 +97,6 @@ editor.reserved_word.style = #ff4545, italic
 
 
 # TEXT      - LITERALS
-# CONSTANTS - LITERAL1
-# VARIABLES - LITERAL2
 editor.literal1.style                    = #85e0ff, plain
 editor.literal2.style                    = #f772af, plain
 editor.variable.style                    = #f772af, plain
@@ -130,4 +127,4 @@ editor.comment2.style = #95a5a6, plain
 
 # LINE STATUS - editor line number status bar at the bottom of the screen
 linestatus.font	   = SansSerif, plain, 10
-linestatus.height  = 0
+linestatus.height  = 20
