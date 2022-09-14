@@ -1,5 +1,7 @@
 # Arduino dark theme
 
+**For Arduino Legacy IDE (1.8.X)**
+
 * Uses Arduino **built-in theme mechanism**
 * SVG icons
 * Two colour versions: 0.2 and 0.3
